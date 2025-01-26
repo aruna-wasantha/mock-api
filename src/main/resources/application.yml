@@ -1,0 +1,9 @@
+#Server Configuration
+server:
+  port: 7000
+
+
+#Spring Configuration
+spring:
+  application:
+    name: mock-api
